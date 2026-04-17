@@ -1,16 +1,28 @@
-## Hi there 👋
+## 👋 Hey there
 
-<!--
-**RasyaRavy/rasyaravy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student at SMKN 4 Malang, majoring in Software Engineering.
+You can also call me a junior developer.
 
-Here are some ideas to get you started:
+I enjoy building web applications and learning new things.
+Currently, I work with Laravel, MySQL, and some other technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is my GitHub where I share my projects, experiments, and things I’m learning.
+Most of my work is built step by step as part of my learning journey 🚀
+
+---
+
+## 🛠 Tools & Tech
+
+* Laravel, PHP
+* MySQL
+* HTML, CSS, JavaScript
+* Git & GitHub
+
+---
+
+## 📌 A Bit About Me
+
+* 💻 Interested in web & app development
+* 🎯 Currently improving my coding skills
+* 🚀 Want to become a professional developer
+* 💡 Love building useful and simple applications
